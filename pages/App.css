@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  background-color: #f2f2f2;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+.main-heading {
+  font-size: 36px;
+  color: #007bff; /* Cor do título principal */
+}
+
+.sub-heading {
+  font-size: 18px;
+  color: #333; /* Cor do texto secundário */
+  margin-top: 10px;
+}
